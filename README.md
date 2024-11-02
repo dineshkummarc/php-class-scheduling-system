@@ -1,6 +1,4 @@
-
 # Class Scheduling System using PHP/MySQLi with Source Code
-
 <div align="center"><img src ="scheduling.png" /></div>
 
 ### Description
